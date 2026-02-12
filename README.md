@@ -22,7 +22,7 @@ A simple and elegant task manager built with vanilla JavaScript.
 3. Start managing your tasks!
 
 ## Screenshots
-(Add screenshots here)
+![Task Manager Screenshot](assets/image.png)
 
 ## Author
 Muhammad Iqbal Alghifari
